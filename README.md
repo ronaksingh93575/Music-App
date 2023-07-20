@@ -1,2 +1,2 @@
 # Music-App
-# only for education purpose
+# Only for education purpose
